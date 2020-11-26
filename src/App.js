@@ -7,7 +7,7 @@ function App() {
       <div className="ml-10 mt-10 w-full flex flex-center max-w-md rounded" >
         <h1 className="font-display text-5xl">Valeron Art Zone</h1>
       </div>
-      <div className='p-3'>
+      <div className='p-10'>
         <Galery />
       </div>
     </div>
