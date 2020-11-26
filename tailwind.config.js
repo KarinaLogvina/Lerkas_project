@@ -5,6 +5,10 @@ module.exports = {
           tab: '720px',
           mob: '320px'
       },
+      fontFamily: {
+        display: ['Fredoka\\ One', 'cursive'],
+        body: ['Chewy', 'cursive']
+      },
       extend: {
           colors: {
               cyan: '#9cdbff',
