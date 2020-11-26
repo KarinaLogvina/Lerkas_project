@@ -95,6 +95,30 @@ const data = [
         width: 3,
         height: 1,
     },
+    {
+        src: './img/clock.jpg',
+        discription: 'clock',
+        width: 3,
+        height: 1,
+    },
+    {
+        src: './img/radio.jpg',
+        discription: 'radio',
+        width: 3,
+        height: 1,
+    },
+    {
+        src: './img/heart.jpg',
+        discription: 'heart',
+        width: 3,
+        height: 1,
+    },
+    {
+        src: './img/teeth.jpg',
+        discription: 'teeth',
+        width: 4,
+        height: 2,
+    },
 ]
 
 export default data;
