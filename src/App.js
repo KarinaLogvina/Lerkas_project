@@ -1,5 +1,5 @@
 import React from 'react';
-import Galery from './components/Galety';
+import PhotoGalery from './components/Galety';
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
         <h1 className="font-display text-5xl">Valeron Art Zone</h1>
       </div>
       <div className='p-10'>
-        <Galery />
+        <PhotoGalery />
       </div>
     </div>
   );

@@ -1,4 +1,4 @@
-const data = [
+export const photos = [
     {
         src: './img/afro.jpg',
         discription: 'afro',
@@ -72,12 +72,6 @@ const data = [
         height: 1,
     },
     {
-        src: './img/radio.jpg',
-        discription: 'radio',
-        width: 3,
-        height: 2,
-    },
-    {
         src: './img/smoking.jpg',
         discription: 'smoking',
         width: 3,
@@ -120,5 +114,3 @@ const data = [
         height: 2,
     },
 ]
-
-export default data;
